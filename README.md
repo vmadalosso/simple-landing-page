@@ -35,8 +35,8 @@ FooD PeeK is a sleek and engaging landing page project that highlights essential
 
 ## Preview
 
-<img src="assets/preview-desktop.png" alt="FooD PeeK Screenshot Desktop Version" width="534" height="304">
-<img src="assets/preview-mobile.png" alt="FooD PeeK Screenshot Mobile Version" width="150" height="304">
+<img src="assets/preview-desktop.png" alt="FooD PeeK Screenshot Desktop Version" width="400" height="288">
+<img src="assets/preview-mobile.png" alt="FooD PeeK Screenshot Mobile Version" width="125" height="270">
 
 ## License
 
